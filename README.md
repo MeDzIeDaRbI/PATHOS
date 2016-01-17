@@ -1,5 +1,5 @@
 # PATHOS
-System design for pathological voice detection\n
-Team : \n
-  Arbi Med Zied\n
+System design for pathological voice detection.
+##Team : 
+  Arbi Med Zied
   ....
